@@ -1,0 +1,9 @@
+.header{
+    width:90%;
+    height:100px;
+    margin:0 auto;
+    text-align:center;
+    line-height: 100px;
+    color:rgb(250, 240, 243);
+    background-image: linear-gradient(to right, rgba(80, 45, 119, 0.493) , rgb(131, 19, 175));;
+}
